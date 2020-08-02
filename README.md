@@ -11,18 +11,18 @@
 
 <p align=center>
 <span align=center class=d-flex>
-<!-- <img title="HTML" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/html5.png"> -->
-<!-- <img title="CSS3" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/css3.png"> -->
-<!-- <img title="JS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/js.png"> -->
-<!-- <img title="RUBY" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/ruby.png"> -->
-<!-- <img title="RAILS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/rails.png"> -->
+<img title="HTML" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/html5.png">
+<img title="CSS3" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/css3.png">
+<img title="JS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/js.png">
+<img title="RUBY" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/ruby.png">
+<img title="RAILS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/rails.png">
 </span> <br />
 <span align=center class=d-flex>
-<!-- <img title="REACT" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/react.png"> -->
-<!-- <img title="REDUX" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/redux.png"> -->
-<!-- <img title="SASS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/sass.png"> -->
-<!-- <img title="TAILWIND" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/tailwind.jpeg"> -->
-<!-- <img title="BOOTSTRAP" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/bootstrap.jpeg"> -->
+<img title="REACT" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/react.png">
+<img title="REDUX" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/redux.png">
+<img title="SASS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/sass.png">
+<img title="TAILWIND" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/tailwind.jpeg">
+<img title="BOOTSTRAP" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/bootstrap.jpeg">
 </span>
 </p>
 
