@@ -1,6 +1,6 @@
 <h1 align=center> Welcome 👋 </h1>
 
-<img title="Title" height=300 width=100% src="./assets/trust_your_struggle.jpeg">
+<img title="Title" height=300 width=100% src="https://github.com/mariosknl/mariosknl/blob/master/assets/trust_your_struggle.jpeg">
 
 <p align=center>
   <b>My name is Marios Kanellopoulos</b> <br />
