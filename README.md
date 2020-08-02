@@ -5,7 +5,7 @@
 <p align=center>
   <b>My name is Marios Kanellopoulos</b> <br />
   I am from Patras, Greece. 🇬🇷 <br />
-  At the moment, I am studying in Microverse, an online coding school <br />
+  I am now studying in Microverse, an online coding school <br />
   In my repositories you can find projects in different languages, libraries and frameworks like:
 </p>
 
