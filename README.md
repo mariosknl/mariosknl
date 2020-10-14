@@ -4,7 +4,7 @@
   <b>My name is <a href="https://marioskanellopoulos.com/">Marios Kanellopoulos</a> <br />
   I am from Patras, Greece. 🇬🇷 <br />
   I am a full-stack Web Developer <br />
-  I like working in React and mostly Front-End. <br />
+  I like working in React & Redux <br />
 </p>
 
 ## ✉️ Find me on: 
