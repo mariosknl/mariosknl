@@ -29,3 +29,4 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
 [![Github](https://img.shields.io/github/followers/mariosknl?label=Follow&style=social)](https://github.com/mariosknl)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosknl&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosknl&theme=tokyonight)
