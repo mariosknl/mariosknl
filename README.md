@@ -5,7 +5,6 @@
   I am from Patras, Greece. 🇬🇷 <br />
   I am a full-stack Web Developer <br />
   I like working in React and mostly Front-End. <br />
-  In my repositories you can find projects in different languages, libraries and frameworks like:
 </p>
 
 ## ✉️ Find me on: 
