@@ -17,7 +17,6 @@
  <a href="mailto:mariosknl@outlook.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
-![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
 
 
 ## 🧰 Languages and Tools:
@@ -41,6 +40,7 @@
 </p>
 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
 [![Github](https://img.shields.io/github/followers/mariosknl?label=Follow&style=social)](https://github.com/mariosknl)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosknl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosknl&theme=tokyonight)
