@@ -7,12 +7,13 @@
   I am from Patras, Greece. 🇬🇷 <br />
   I am a full-stack Web Developer <br />
   I like working in React and mostly Front-End. <br />
+  In my repositories you can find projects in different languages, libraries and frameworks like:
 </p>
-![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
+
 
 
 <p align=center>
-    In my repositories you can find projects in different languages, libraries and frameworks like:
+    
 <span align=center class=d-flex>
 <img title="HTML" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/html5.png">
 <img title="CSS3" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/css3.png">
@@ -29,6 +30,7 @@
 </span>
 </p>
 
+![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
 [![Github](https://img.shields.io/github/followers/mariosknl?label=Follow&style=social)](https://github.com/mariosknl)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariosknl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosknl&theme=tokyonight)
