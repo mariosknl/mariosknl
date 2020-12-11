@@ -41,6 +41,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
 [![Github](https://img.shields.io/github/followers/mariosknl?label=Follow&style=social)](https://github.com/mariosknl)
 <span align=center>
-![GitHub stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mariosknl&show_icons=true&width=350&height=250&skills=Javascript,Ruby)
+![GitHub stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mariosknl&show_icons=true&width=6400&height=150&skills=Javascript,Ruby)
  </span>
 
