@@ -3,7 +3,7 @@
 <p align=center>
   <b>My name is <a href="https://marioskanellopoulos.com/">Marios Kanellopoulos</a> <br />
   I am from Patras, Greece. 🇬🇷 <br />
-  I am a Web Developer <br />
+  I am a Web Developer! <br />
 </p>
 
 ## ✉️ Find me on: 
