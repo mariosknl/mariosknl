@@ -28,8 +28,6 @@
 <img title="REDUX" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/redux.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
 </span> <br />
 <span align=center class=d-flex>
-  <img title="RUBY" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/ruby.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
-<img title="RAILS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/rails.png" alt="Rails" height="40" style="vertical-align:top; margin:4px">
 <img title="SASS" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/sass.png" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 <img title="TAILWIND" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/tailwind.jpeg" alt="Tailwind" height="40" style="vertical-align:top; margin:4px">
 <img title="BOOTSTRAP" height=60 src="https://github.com/mariosknl/mariosknl/blob/master/assets/bootstrap.jpeg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
