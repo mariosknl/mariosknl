@@ -37,8 +37,5 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=mariosknl.mariosknl)
 [![Github](https://img.shields.io/github/followers/mariosknl?label=Follow&style=social)](https://github.com/mariosknl)
-<span align=center>
-![GitHub stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mariosknl&show_icons=true&width=640&height=150&skills=Javascript,Ruby,Css)
- </span>
 
 ![Metrics](https://metrics.lecoq.io/mariosknl?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FAthens)
